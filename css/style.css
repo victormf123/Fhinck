@@ -1,0 +1,69 @@
+ul {
+
+list-style-type: none;
+
+}
+body{
+    background-image: url('../img/maxresdefault.jpg');
+    width:100%;
+    height:100%;
+}
+header{
+    background:#FFFFFF;
+    border-bottom: solid thick #D3D3D3;
+}
+.tokken{
+    position:absolute;
+    top:50%;
+    left:50%;
+    width: 250px;
+    margin-top: 15px;
+    margin-left:-125px;
+}
+.conteiner{
+    margin-bottom:10px;
+}
+section{
+	display: none;
+	position:absolute;
+	top:50%;
+	left:50%;
+	width: 320px;
+	height: 1250px;
+	margin-top: -300px;
+	margin-left:-160px;
+}
+.formulario-acesso{
+	background:#FFFFFF;
+	border-radius:0.5em;
+}
+.continer-img{
+    margin-top:10px;
+    margin-left: 19px;
+    border: solid thick #FFA500;
+    border-radius:1em;
+    background:#000000;
+    height: 120px;
+    width: 266px;
+}
+.solicitacao{
+    margin-top:10px;
+    margin-left: 20px;
+    margin-bottom:15px;
+    width: 269px;
+    height: 183px;
+}
+#btn-self{
+    margin-top:8px;
+    margin-bottom:8px;
+    width:100%;
+    height: 25px;
+    background:#FFA500;
+    border:0px;
+}
+#btn-solicitacao{
+    width:100%;
+    height: 25px;
+    background:#FFA500;
+    border:0px;
+}
